@@ -1,3 +1,3 @@
 # Class User Names
 
-jembrown
+jembrown (Instructor)
