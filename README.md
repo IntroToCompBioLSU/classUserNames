@@ -13,4 +13,5 @@ ewhart1 (Student)\
 ckauf11 (Student)\
 mguid73 (Student)\
 ghurst2 (Student)\
-whurst1 (Student)
+whurst1 (Student)\
+jacobssearight (Student)
