@@ -14,4 +14,6 @@ ckauf11 (Student)\
 mguid73 (Student)\
 ghurst2 (Student)\
 whurst1 (Student)\
-jacobssearight (Student)
+jacobssearight (Student)\
+cdav184 (Student)\
+LANEHALLAM18
